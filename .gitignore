@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Environments
+.venv/
+venv/
+env/
+
+# Conda
+.conda/
+
+# Data
+data/
+
+# Training
+runs/
+*.pth
+*.pt
+
+# IDE
+.idea/
+
+# macOS
+.DS_Store
